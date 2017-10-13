@@ -12,7 +12,6 @@ package java_prg_02_04_star_pattern;
 public class JAVA_PRG_02_04_Star_Pattern {
 
     /**
-     * @param args the command line arguments
      *  * Write a program that displays the following pattern:
      *    *
      *   ***
