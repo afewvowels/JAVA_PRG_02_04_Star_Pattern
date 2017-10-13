@@ -1,13 +1,4 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package java_prg_02_04_star_pattern;
-
-/**
- *
- * @author bluebackdev
  * Write a program that displays the following pattern:
  *    *
  *   ***
@@ -16,6 +7,12 @@ package java_prg_02_04_star_pattern;
  *  *****
  *   ***
  *    *
+ */
+package java_prg_02_04_star_pattern;
+
+/**
+ *
+ * @author bluebackdev
  */
 public class JAVA_PRG_02_04_Star_Pattern {
 
